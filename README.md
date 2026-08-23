@@ -29,7 +29,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/NALLELY.jpeg" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/GEYNER.jpeg" width="90"/> | **Geyner Alva Mestanza** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Leonel Somyu Solano** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/karla.jpeg" width="90"/> | **Karla Torres Geronimo** | Encargado/a de documentación | Comunicación científica, redacción técnica |
